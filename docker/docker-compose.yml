@@ -1,0 +1,7 @@
+web-interface:
+  image: web_interface
+  labels:
+   - "corex_local_image_dev"
+  ports:
+   - "8761:8080"
+   #porta externa:porta interna"
