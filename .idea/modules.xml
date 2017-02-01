@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CoreX.iml" filepath="$PROJECT_DIR$/CoreX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-client/service-client.iml" filepath="$PROJECT_DIR$/service-client/service-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/web_interface/web_interface.iml" filepath="$PROJECT_DIR$/web_interface/web_interface.iml" />
     </modules>
   </component>

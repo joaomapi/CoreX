@@ -5,3 +5,12 @@ web-interface:
   ports:
    - "8761:8080"
    #porta externa:porta interna"
+
+
+service-client:
+  image: service-client
+  labels:
+   - "corex_local_image_dev"
+  ports:
+   - "8762:8080"
+   #porta externa:porta interna"
